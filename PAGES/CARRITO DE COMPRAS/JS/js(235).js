@@ -6,28 +6,28 @@ document.addEventListener('DOMContentLoaded', () => {
     const baseDeDatos = [
         {
             id: 1,
-            nombre: 'Automatismos ',
+            nombre: 'Automatismos Diseño ',
             precio: 10000,
-            imagen: 'images/AUTOMATISMOS(1).jpg'
+            imagen: 'images/automatismos(233).jpg'
         },
         {
             id: 2,
             nombre: 'Prog. PLC Configuración',
             precio: 12000,
-            imagen: 'images/TTA(3).jpg'
+            imagen: 'images/PLC(234).jpg'
         
         },
         {
             id: 3,
-            nombre: 'Diseño de Tableros Eléctricos',
+            nombre: ' Tableros Eléctricos',
             precio: 21000,
-            imagen: 'images/TABLEROCAJAMOLDEADA.jpg'
+            imagen: 'images/TABLEROCAJAMOLDEADA(233).jpg'
         },
         {
             id: 4,
             nombre: 'Transferencia Red Generador',
             precio: 30000,
-            imagen: 'images/TTA(3).jpg'
+            imagen: 'images/TTA(234).jpg'
         },
 
 
@@ -35,14 +35,14 @@ document.addEventListener('DOMContentLoaded', () => {
             id: 5,
             nombre: ' Generadores de emergencia',
             precio: 30000,
-            imagen: 'images/TTA(3).jpg'
+            imagen: 'images/generador(233).jpg'
         },
          
         {
             id: 6,
-            nombre: 'Tableros Generales de Baja Tension',
+            nombre: 'Tableros Baja Tensión',
             precio: 30000,
-            imagen: 'images/TTA(3).jpg'
+            imagen: 'images/TTA(233).jpg'
         }
 
 

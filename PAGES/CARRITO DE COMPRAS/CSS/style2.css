@@ -103,5 +103,27 @@ input[type="submit"]:hover {
 
   }
 
+  .row #items {
+
+border: 5px solid gray;
+border-radius: 10px;
+border-width:3px;
+padding:10px;
+
+
+  }
+
+ 
+
+ .card.col-sm-4 {
+    border: 5px solid rgb(34, 8, 8); 
+    border-radius: 10px;
+    border-width:3px;
+    align-content: flex-end;
+    
+
+ }
+
+ 
 
 
